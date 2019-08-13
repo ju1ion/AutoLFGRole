@@ -1,0 +1,8 @@
+## Interface: 60000
+## Title: AutoLFGRole
+## Version: 0.1alpha
+## Author: ju1ion
+## SavedVariables: AutoLFGRoleDB
+## DefaultState: enabled
+
+AutoLFGRole.lua
