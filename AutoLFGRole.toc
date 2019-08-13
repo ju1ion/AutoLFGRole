@@ -1,9 +1,9 @@
 ## Interface: 80200
 ## Title: AutoLFGRole
 ## Notes: This Addons automatically confirms your pre selected role (Tank, Healer or DamageDealer) if the party leader queues for a dungeon or raid.
-## Version: 1.0.2
+## Version: 1.1.3
 ## Author: ju1ion, Rockshoo
-## SavedVariables: AutoLFGRoleDB
+## SavedVariablesPerCharacter: AutoLFGRoleEnabled
 ## DefaultState: enabled
 
 AutoLFGRole.lua
